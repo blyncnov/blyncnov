@@ -1,4 +1,4 @@
-* 👋 Hi there , thanks for stopping by - BTW i'm Taiwo Boluwatife (Jeremy).
+* 👋 Hi there , thanks for stopping by - BTW i'm Jeremy.
 
 * I also goes by the identity `Blyncnov` .
 
