@@ -13,7 +13,7 @@ Frontend / full-stack engineer. I build fast, real-time web apps with **Next.js,
 | Project | What it does | Stack |
 |---|---|---|
 | [screen-link](https://github.com/blyncnov/screen-link) | Self-hosted 1-on-1 screen sharing over WebRTC | Go, Next.js, WebRTC, Cloudflare TURN, Docker |
-| [conduit-os](https://github.com/blyncnov/conduit-os) | Service-metering and settlement layer for Fiber | TypeScript |
+| [conduit-os](https://github.com/blyncnov/conduit-os) | Pay-per-request APIs on the Fiber network, payable by AI agents via MCP | TypeScript, Go, PostgreSQL |
 | [deja-view](https://github.com/blyncnov/deja-view) | Copy-paste dashboard kit for Next.js 16 — 38 components, charts, dark mode | Next.js, TypeScript |
 | [year-sense](https://github.com/blyncnov/year-sense) | Snap a photo of your calendar, the API updates your year for you | Go |
 
