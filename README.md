@@ -23,4 +23,4 @@ Next.js · React · TypeScript · Tailwind · Go · Node.js · PostgreSQL · Sup
 
 ## Reach me
 
-[Portfolio](https://jeremytechie.com/hire) · [LinkedIn](https://www.linkedin.com/in/jeremytechie) · [X](https://x.com/jeremytechie) · [email]
+[Portfolio](https://jeremytechie.com/hire) · [LinkedIn](https://www.linkedin.com/in/jeremytechie) · [X](https://x.com/jeremytechie) · hi@jeremytechie.com
